@@ -1,1 +1,1 @@
-Sitemap: /https://luisekollars.github.io/sitemap.xml
+Sitemap: https://luisekollars.github.io/https://luisekollars.github.io/sitemap.xml
